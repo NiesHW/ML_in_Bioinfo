@@ -1,1 +1,1 @@
-# ML_in_Bioinfo
+# Machine Learning in Bioinformatics
