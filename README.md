@@ -14,6 +14,7 @@
 - reinforcement learning (e.g., Q-learning)
 - ensemble learning
 - transfer learning
+- natural language processing
 
 ### output example can be in the form of:
 - biomarkers
