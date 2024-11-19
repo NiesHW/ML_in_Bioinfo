@@ -10,7 +10,8 @@
 - gene-based microarray analysis
 - pathway-based microarray analysis
 - network-based microarray analysis
-- deep learning
+- deep learning (e.g., autoencoder, ANN, DNN, CNN, RNN, GAN)
+- reinforcement learning (e.g., Q-learning)
 
 ### output example can be in the form of:
 - biomarkers
