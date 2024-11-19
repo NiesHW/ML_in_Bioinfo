@@ -12,6 +12,8 @@
 - network-based microarray analysis
 - deep learning (e.g., autoencoder, ANN, DNN, CNN, RNN, GAN)
 - reinforcement learning (e.g., Q-learning)
+- ensemble learning
+- transfer learning
 
 ### output example can be in the form of:
 - biomarkers
